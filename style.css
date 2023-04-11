@@ -22,9 +22,31 @@ body{
     color: green;
 }
 #my_id{
-    color:rgb(255, 51, 0);
+    color:rgb(255, 51, 10);
 }
 .two.classes{
     color: #7700ff;
+
+}
+
+header{
+    background-color: #ecff7f;
+    padding: 20px;
+}
+header h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    margin: 0;
+    margin-bottom:  10px;
+}
+header nav{
+    margin-left: -12px;
+}
+header nav a{
+    display: inline-block;
+    padding: 0 15px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
 
 }
