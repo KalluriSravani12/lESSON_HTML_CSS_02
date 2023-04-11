@@ -1,2 +1,3 @@
-# lESSON_HTML_CSS_02
-Repetition for HTML och CSS
+# Andra Lektion
+
+Repetition for HTML och CSS, git och även mark down
